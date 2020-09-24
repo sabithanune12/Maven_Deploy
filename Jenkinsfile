@@ -1,4 +1,4 @@
-@Library('shared-library2') _
+@Library('shared-library-maven') _
 pipeline{
     agent any
     stages{
